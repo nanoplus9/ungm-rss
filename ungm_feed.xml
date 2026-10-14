@@ -6,7 +6,7 @@
     <description>Automated tracking of live UNGM Request for Proposals (RFP) and tenders.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 16:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:56:41 +0000</lastBuildDate>
     <item>
       <title>Feed Temporarily Empty</title>
       <link>https://www.ungm.org/public/notice</link>
